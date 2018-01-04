@@ -1,5 +1,5 @@
+import { Triangle } from './../js/constructor.js';
 
-var Triangle = require('./../js/triangle.js').triangleModule;
 describe('Triangle', function() {
   var reusableTriangle;
 
